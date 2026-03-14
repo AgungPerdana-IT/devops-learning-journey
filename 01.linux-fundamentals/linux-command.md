@@ -27,4 +27,4 @@
 19. `nano file.txt` - Opens a simple text editor
 20. `vi file.txt` - Opens a powerful text editor
 21. `echo 'Hello" > file.txt` - Writes text to a file, overwriting existing content
-22. 1echo 'Hello' >> file.txt` - Appends text to a file without overwriting
+22. `echo 'Hello' >> file.txt` - Appends text to a file without overwriting
